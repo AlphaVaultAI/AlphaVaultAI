@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**AlphaVaultAI/AlphaVaultAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AlphaVaultAI
 
-Here are some ideas to get you started:
+AlphaVaultAI is a cutting-edge crypto intelligence platform designed to revolutionize trading strategies. This repository includes integrations with tools like TweetScout API, AlphaVaultAI Radar, and Pump Fun API, alongside features like sniper detection, bundle checking, and customizable anime-style AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- **Rug Check Tools**: Analyze tokens for high-risk behavior using AlphaVaultAI Radar.
+- **Sentiment Analysis**: Evaluate community engagement with TweetScout.
+- **Sniper Detection**: Identify suspicious wallets early in the token lifecycle.
+- **Bundle Checker**: Analyze token distributions with pie charts and wallet breakdowns.
+- **Customizable AI Agents**: Generate unique, anime-inspired AI assistants.
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/alphavaultai.git
